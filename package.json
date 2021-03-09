@@ -1,0 +1,24 @@
+{
+  "name": "progressivewebapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "start": "firebase login",
+    "initial": "firebase init",
+    "dev": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htmlfriend/progressivewebapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htmlfriend/progressivewebapp/issues"
+  },
+  "homepage": "https://github.com/htmlfriend/progressivewebapp#readme",
+  "dependencies": {
+    "firebase-tools": "^9.6.0"
+  }
+}
